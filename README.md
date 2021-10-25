@@ -19,7 +19,7 @@ nbtjson toNBT  [arguments]
                -z, --zip (gzips the nbt file)
 ```
 
-Author: Neko Boi Nick (thakyZ)
+Author: Neko Boi Nick (thakyZ)   
 License: [MIT](https://github.com/thakyZ/node-nbt-to-json/LICENSE)
 
 Thanks to [PrismarineJS](https://github.com/PrismarineJS) for [prismarine-nbt](https://www.npmjs.com/package/prismarine-nbt)
